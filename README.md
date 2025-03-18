@@ -1,2 +1,3 @@
-# vang3099_phpcrudecrud
+# Example LAMP Stack Application
+# PHP Crude Crud App
 INET4031 System Admin Sample Dynamic Web Application Code
